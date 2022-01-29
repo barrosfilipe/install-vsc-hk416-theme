@@ -8,9 +8,7 @@
   "license": "MIT",
   "dependencies": {
     "execa": "^6.0.0",
-    "node-powershell": "^5.0.1",
     "ora": "^6.0.1",
-    "powershell": "^2.3.2",
     "shout-error": "^1.0.4",
     "shout-success": "^1.0.3"
   },
