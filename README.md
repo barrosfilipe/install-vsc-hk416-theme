@@ -43,5 +43,8 @@ git clone https://github.com/barrosfilipe/install-vsc-hk416-theme.git && cd inst
 Note: You can change the [wallpaper.png] to your favorite one.
 ```
 
+# To do
+There're some enhancements [to do](https://github.com/barrosfilipe/install-vsc-hk416-theme/blob/main/todo.md).
+
 # Disclaimer
 > I am not affiliated with `Girls' Frontline` in any way, shape, form, or fashion, it's just a fun side project.
