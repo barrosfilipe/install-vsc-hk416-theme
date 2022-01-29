@@ -5,7 +5,7 @@ const vsCodeWorkbenchPath =
   "/Programs/Microsoft VS Code/resources/app/out/vs/code/electron-browser/workbench/";
 
 const installVsixTheme = execPowerShellCommand({
-  command: `code --install-extension '${binPath}theme/hk416.vsix' --force`,
+  command: `code --install-extension barrosfilipe.hk416-theme --force`,
   successMessage: "Theme installed",
   failedMessage: "Failed to install theme",
 });
