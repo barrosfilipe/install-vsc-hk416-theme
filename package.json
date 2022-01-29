@@ -1,9 +1,9 @@
 {
-  "name": "anime-vsc-theme",
-  "version": "1.0.0",
-  "main": "./bin/index.js",
+  "name": "install-vsc-hk416-theme",
+  "version": "0.0.1",
+  "main": "bin/index.js",
   "scripts": {
-    "start": "node ./bin/index.js"
+    "start": "node bin/index.js"
   },
   "license": "MIT",
   "dependencies": {
@@ -16,6 +16,6 @@
   },
   "type": "module",
   "bin": {
-    "anime-vsc-theme": "./bin/index.js"
+    "install-vsc-hk416-theme": "bin/index.js"
   }
 }
