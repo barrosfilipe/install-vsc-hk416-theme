@@ -1,0 +1,6 @@
+.wallpaper {
+  background-size: cover;
+  opacity: 0.93 !important;
+  background-image: url('./wallpaper.png');
+  background-repeat: no-repeat;
+}

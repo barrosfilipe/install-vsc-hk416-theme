@@ -1,0 +1,21 @@
+{
+  "name": "anime-vsc-theme",
+  "version": "1.0.0",
+  "main": "./bin/index.js",
+  "scripts": {
+    "start": "node ./bin/index.js"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "execa": "^6.0.0",
+    "node-powershell": "^5.0.1",
+    "ora": "^6.0.1",
+    "powershell": "^2.3.2",
+    "shout-error": "^1.0.4",
+    "shout-success": "^1.0.3"
+  },
+  "type": "module",
+  "bin": {
+    "anime-vsc-theme": "./bin/index.js"
+  }
+}
